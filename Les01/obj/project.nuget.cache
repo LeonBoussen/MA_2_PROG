@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "R9XdruCBfy8a8dAb9SxUG3a/B95H4nlHABDqsH6BlsfPNKm+Ns1zwEORsaw0Sv3mBbwPhv9NpL7RM8vi8ACcHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leonb\\Documents\\Mediacollege\\Bewijzenmap\\Leerjaar 2\\PROG\\Les01\\Les01\\Les01\\Les01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leonb\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\leonb\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\leonb\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\leonb\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
